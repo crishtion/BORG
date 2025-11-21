@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crish\\source\\repos\\BORG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|c:\\users\\crish\\source\\repos\\borg\\borg\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|solutionrelative:borg\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|c:\\users\\crish\\source\\repos\\borg\\borg\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|solutionrelative:borg\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|c:\\users\\crish\\source\\repos\\borg\\borg\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|solutionrelative:borg\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|c:\\users\\crish\\source\\repos\\borg\\borg\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|solutionrelative:borg\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|c:\\users\\crish\\source\\repos\\borg\\borg\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|solutionrelative:borg\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|c:\\users\\crish\\source\\repos\\borg\\borg\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{98A39D28-E74A-783E-D4AC-E2788DFA0F81}|BORG\\borg.esproj|solutionrelative:borg\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\index.css",
+              "RelativeDocumentMoniker": "borg\\src\\index.css",
+              "ToolTip": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\index.css",
+              "RelativeToolTip": "borg\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-21T19:42:58.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\App.jsx",
+              "RelativeDocumentMoniker": "borg\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\App.jsx",
+              "RelativeToolTip": "borg\\src\\App.jsx",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-21T19:36:06.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\App.css",
+              "RelativeDocumentMoniker": "borg\\src\\App.css",
+              "ToolTip": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\App.css",
+              "RelativeToolTip": "borg\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-21T19:35:49.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\main.jsx",
+              "RelativeDocumentMoniker": "borg\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\src\\main.jsx",
+              "RelativeToolTip": "borg\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-11-21T19:29:37.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\vite.config.js",
+              "RelativeDocumentMoniker": "borg\\vite.config.js",
+              "ToolTip": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\vite.config.js",
+              "RelativeToolTip": "borg\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-21T19:29:29.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\index.html",
+              "RelativeDocumentMoniker": "borg\\index.html",
+              "ToolTip": "C:\\Users\\crish\\source\\repos\\BORG\\borg\\index.html",
+              "RelativeToolTip": "borg\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-21T19:27:28.662Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

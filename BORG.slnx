@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="BORG/borg.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
