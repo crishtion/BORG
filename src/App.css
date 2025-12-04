@@ -1,0 +1,44 @@
+main{
+    min-height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+.title{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.buttons{
+    min-width: 20vw;
+    min-height: 10vh;
+    max-width: 40vw;
+    max-height: 20vh;
+}
+
+#button-container{
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: column;
+    gap: 10vh;
+    align-items: center;
+    height: auto;
+    width: auto;
+}
+
+#mork-img{
+    border: 1px solid black;
+    min-height: 10vh;
+    max-height: 15vh;
+    align-items: center;
+}
+
+/* 
+I cant get the formatting here correct so i'll come back to it later
+*/
+#placeholder{
+    background-color: grey;
+    text-align: center;
+    min-width: 30vw;
+    max-width: 40vw;
+}
